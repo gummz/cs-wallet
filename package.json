@@ -9,7 +9,7 @@
         "bigi": "^1.4.0",
         "bip32-utils": "git://github.com/CoinSpace/bip32-utils.git#v0.11.3",
         "bitcoinjs-lib": "git://github.com/smileycoin/bitcoinjs-lib.git",
-        "cs-insight": "gummz/cs-insight",
+        "cs-insight": "git://github.com/smileycoin/cs-insight.git",
         "hdkey": "^0.8.0",
         "lodash": "^4.17.5",
         "wif": "^2.0.1"
